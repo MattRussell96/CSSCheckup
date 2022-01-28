@@ -22,3 +22,8 @@ body {
     border-style: double dotted dashed solid;
     border-color: purple yellow blue red;
 }
+
+.title {
+    text-align: center;
+    font-size: x-large;
+}
