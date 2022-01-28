@@ -1,4 +1,24 @@
-.head {
-    text-align: center;
+body {
+    background-color: slategrey;
+}
+
+.wrapper {
+    text-align: left;
+    border-style: 28px;
+    border-style: double;
+    border-color: red;
     background-color: aqua;
+}
+
+#example-1 {
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#example-2 {
+    margin: 20px 50px 20px 50px;
+    border: 10px;
+    border-style: double dotted dashed solid;
+    border-color: purple yellow blue red;
+    
 }
